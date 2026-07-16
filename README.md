@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=9%2B+anos+construindo+produtos+de+ponta+a+ponta;NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+IA;Arquitetura+multi-tenant+%26+micro+frontends;Engenharia+assistida+por+IA+com+Claude;Apaixonado+por+tecnologia%2C+business+e+design)](https://github.com/1paulobarbosa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulobarbosa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-freireb/)
 [![Email](https://img.shields.io/badge/Email-paulo%40buildwithsingularity.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:paulo@buildwithsingularity.com)
 [![Location](https://img.shields.io/badge/Curitiba-PR%2C%20Brasil-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -20,12 +20,13 @@
 
 Sou Tech Leader e engenheiro fullstack. Hoje sou o **único responsável técnico de um produto SaaS multi-tenant** — frontend, backend, cloud, segurança e IA — o que me obriga (e me diverte) a pensar o sistema inteiro como uma coisa só: regra de negócio no lugar certo, schema versionado por migration, deploy previsível e custo sob controle.
 
-Nos últimos anos venho combinando **arquitetura de software** com **engenharia assistida por IA**: coloco modelos Claude em produção via AWS Bedrock e construo agentes e workflows no Claude Code com os padrões de engenharia da empresa embutidos — automação de review, scaffolding e tarefas repetitivas caíram ~60%, sobrando tempo para o que importa: system design.
+Nos últimos anos venho combinando **arquitetura de software** com **engenharia assistida por IA**: coloco modelos Claude em produção e construo agentes e workflows no Claude Code com os padrões de engenharia da empresa embutidos — automação de review, scaffolding e tarefas repetitivas caíram ~60%, sobrando tempo para o que importa: system design.
 
 ```text
 o que eu faço bem
 ├── liderar produto técnico de ponta a ponta (frontend + backend + cloud + IA)
 ├── arquitetura: multi-tenant, micro frontends, pipelines assíncronos
+├── apps nativos iOS (Swift · SwiftUI · SwiftData)
 ├── developer experience: CI/CD, IaC, Docker, agentes de IA
 └── performance: do bundle ao banco, com número pra provar
 ```
@@ -57,7 +58,7 @@ flowchart TB
     end
 
     subgraph AI["🤖 IA em produção"]
-        BEDROCK["AWS Bedrock · Claude<br/>governança + teto de custo"]
+        CLAUDE["Claude em produção<br/>governança + teto de custo"]
         AGENTS["Agentes Claude Code<br/>review · scaffolding · automação"]
     end
 
@@ -73,7 +74,7 @@ flowchart TB
     NEST --> AUTH
     NEST --> PG
     NEST --> QUEUE
-    NEST --> BEDROCK
+    NEST --> CLAUDE
     AGENTS -. acelera o time .-> NEST
     DOCKER --> AWS
     CICD --> AWS
@@ -108,6 +109,12 @@ flowchart TB
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 
+### Mobile & Apps Nativos
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![SwiftData](https://img.shields.io/badge/SwiftData-8E44AD?style=flat-square&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 ### Cloud, DevOps & Observabilidade
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -118,7 +125,6 @@ flowchart TB
 
 ### IA & Engenharia assistida
 ![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### Qualidade & Arquitetura
@@ -150,9 +156,9 @@ flowchart TB
 
 ```text
 2025 — hoje   GoNext          Tech Leader — produto SaaS multi-tenant B2B2C
-                              (NestJS · React · AWS · Bedrock · Claude Code)
+                              (NestJS · React · AWS · Claude Code)
 
-2024 — hoje   Lerian          Software Engineer — Core Ledger, observabilidade,
+2024 — 2025   Lerian          Software Engineer — Core Ledger, observabilidade,
                               micro frontends (Next.js · Module Federation)
 
 2021 — 2024   Dock            Software Engineer — fintech em escala, pipelines
@@ -173,8 +179,8 @@ flowchart TB
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=1paulobarbosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1paulobarbosa&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=1paulobarbosa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=1paulobarbosa&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=1paulobarbosa&theme=tokyonight&hide_border=true)
 
@@ -208,7 +214,7 @@ flowchart TB
 
 *"Regra de negócio no lugar certo, schema por migration, deploy previsível."*
 
-**Bora conversar?** → [LinkedIn](https://www.linkedin.com/in/paulobarbosa) · [paulo@buildwithsingularity.com](mailto:paulo@buildwithsingularity.com)
+**Bora conversar?** → [LinkedIn](https://www.linkedin.com/in/paulo-freireb/) · [paulo@buildwithsingularity.com](mailto:paulo@buildwithsingularity.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
