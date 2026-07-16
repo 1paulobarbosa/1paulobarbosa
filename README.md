@@ -2,13 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Paulo%20Barbosa&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Tech%20Leader%20%C2%B7%20FullStack%20Engineer&descSize=22&descAlignY=75)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=9%2B+anos+construindo+produtos+de+ponta+a+ponta;NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+IA;Arquitetura+multi-tenant+%26+micro+frontends;Engenharia+assistida+por+IA+com+Claude;Apaixonado+por+tecnologia%2C+business+e+design)](https://github.com/1paulobarbosa)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=10%2B+anos+construindo+software;NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+IA;Arquitetura+multi-tenant+%26+micro+frontends;Engenharia+assistida+por+IA+com+Claude;Apaixonado+por+tecnologia%2C+business+e+design)](https://github.com/1paulobarbosa)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-freireb/)
 [![Email](https://img.shields.io/badge/Email-paulo%40buildwithsingularity.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:paulo@buildwithsingularity.com)
 [![Location](https://img.shields.io/badge/Curitiba-PR%2C%20Brasil-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-![Profile Views](https://komarev.com/ghpvc/?username=1paulobarbosa&color=61DAFB&style=flat-square&label=visitas)
+![Profile Views](https://komarev.com/ghpvc/?username=1paulobarbosa&color=61DAFB&style=flat-square&label=visitas&base=8500)
 
 </div>
 
