@@ -26,7 +26,7 @@ Nos últimos anos venho combinando **arquitetura de software** com **engenharia 
 o que eu faço bem
 ├── liderar produto técnico de ponta a ponta (frontend + backend + cloud + IA)
 ├── arquitetura: multi-tenant, micro frontends, pipelines assíncronos
-├── apps nativos iOS (Swift · SwiftUI · SwiftData)
+├── apps nativos iOS — Eight (Swift · SwiftUI · SwiftData)
 ├── developer experience: CI/CD, IaC, Docker, agentes de IA
 └── performance: do bundle ao banco, com número pra provar
 ```
@@ -114,6 +114,8 @@ flowchart TB
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
 ![SwiftData](https://img.shields.io/badge/SwiftData-8E44AD?style=flat-square&logo=swift&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+📱 **[Eight](https://eight.buildwithsingularity.com)** — app nativo iOS + Apple Watch de equilíbrio de vida 8/8/8 (Swift · SwiftUI · SwiftData · CloudKit)
 
 ### Cloud, DevOps & Observabilidade
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
