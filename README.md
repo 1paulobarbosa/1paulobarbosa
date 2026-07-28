@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=10%2B+anos+construindo+software;NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+IA;Arquitetura+multi-tenant+%26+micro+frontends;Engenharia+assistida+por+IA+com+Claude;Apaixonado+por+tecnologia%2C+business+e+design)](https://github.com/1paulobarbosa)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-101511?style=for-the-badge&logo=linkedin&logoColor=00E676&labelColor=0B0E0C)](https://www.linkedin.com/in/paulo-freireb/)
+[![Site](https://img.shields.io/badge/Site-paulobarbosa.dev-101511?style=for-the-badge&logo=googlechrome&logoColor=00E676&labelColor=0B0E0C)](https://paulobarbosa.dev)
+[![Singularity](https://img.shields.io/badge/Studio-buildwithsingularity.com-101511?style=for-the-badge&logo=rocket&logoColor=00E676&labelColor=0B0E0C)](https://buildwithsingularity.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-101511?style=for-the-badge&logoColor=00E676&labelColor=0B0E0C)](https://www.linkedin.com/in/paulo-freireb/)
 [![Email](https://img.shields.io/badge/Email-paulo%40buildwithsingularity.com-101511?style=for-the-badge&logo=maildotru&logoColor=00E676&labelColor=0B0E0C)](mailto:paulo@buildwithsingularity.com)
-[![Singularity](https://img.shields.io/badge/Singularity-product%20studio-101511?style=for-the-badge&logoColor=00E676&labelColor=0B0E0C)](https://buildwithsingularity.com)
 [![Location](https://img.shields.io/badge/Curitiba-PR%2C%20Brasil-101511?style=for-the-badge&logo=googlemaps&logoColor=00E676&labelColor=0B0E0C)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1paulobarbosa&color=00E676&style=flat-square&label=visitas&base=8500)
@@ -120,7 +122,7 @@ flowchart TB
 **[Eight](https://eight.buildwithsingularity.com)** — app nativo iOS + Apple Watch de equilíbrio de vida 8/8/8 (Swift · SwiftUI · SwiftData · CloudKit)
 
 ### Cloud, DevOps & Observabilidade
-![AWS](https://img.shields.io/badge/AWS-101511?style=flat-square&logo=amazonwebservices&logoColor=00E676)
+![AWS](https://img.shields.io/badge/AWS-101511?style=flat-square&logoColor=00E676)
 ![Docker](https://img.shields.io/badge/Docker-101511?style=flat-square&logo=docker&logoColor=00E676)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-101511?style=flat-square&logo=githubactions&logoColor=00E676)
 ![New Relic](https://img.shields.io/badge/New%20Relic-101511?style=flat-square&logo=newrelic&logoColor=00E676)
@@ -211,6 +213,8 @@ por onde passei
 <div align="center">
 
 *"Regra de negócio no lugar certo, schema por migration, deploy previsível."*
+
+[paulobarbosa.dev](https://paulobarbosa.dev) &nbsp;·&nbsp; [buildwithsingularity.com](https://buildwithsingularity.com)
 
 **Bora conversar?** → [LinkedIn](https://www.linkedin.com/in/paulo-freireb/) · [paulo@buildwithsingularity.com](mailto:paulo@buildwithsingularity.com)
 
