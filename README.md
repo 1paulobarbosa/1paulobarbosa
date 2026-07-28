@@ -1,11 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0E0C,100:00E676&height=200&section=header&text=Paulo%20Barbosa&fontSize=64&fontColor=F4F6F2&animation=fadeIn&desc=Tech%20Leader%20%C2%B7%20FullStack%20Engineer&descSize=22&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B0E0C,100:00E676&height=200&section=header&text=Paulo%20Barbosa&fontSize=64&fontColor=F4F6F2&animation=fadeIn&desc=Consultor%20%C2%B7%20FullStack%20Engineer&descSize=22&descAlignY=75)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=10%2B+anos+construindo+software;NestJS+%C2%B7+React+%C2%B7+Next.js+%C2%B7+AWS+%C2%B7+IA;Arquitetura+multi-tenant+%26+micro+frontends;Engenharia+assistida+por+IA+com+Claude;Apaixonado+por+tecnologia%2C+business+e+design)](https://github.com/1paulobarbosa)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Barbosa-101511?style=for-the-badge&logo=linkedin&logoColor=00E676&labelColor=0B0E0C)](https://www.linkedin.com/in/paulo-freireb/)
 [![Email](https://img.shields.io/badge/Email-paulo%40buildwithsingularity.com-101511?style=for-the-badge&logo=maildotru&logoColor=00E676&labelColor=0B0E0C)](mailto:paulo@buildwithsingularity.com)
+[![Singularity](https://img.shields.io/badge/Singularity-product%20studio-101511?style=for-the-badge&logoColor=00E676&labelColor=0B0E0C)](https://buildwithsingularity.com)
 [![Location](https://img.shields.io/badge/Curitiba-PR%2C%20Brasil-101511?style=for-the-badge&logo=googlemaps&logoColor=00E676&labelColor=0B0E0C)](#)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=1paulobarbosa&color=00E676&style=flat-square&label=visitas&base=8500)
@@ -16,9 +17,15 @@
 
 ## SOBRE
 
-Sou Tech Leader e engenheiro fullstack. Hoje sou o **único responsável técnico de um produto SaaS multi-tenant** — frontend, backend, cloud, segurança e IA — o que me obriga (e me diverte) a pensar o sistema inteiro como uma coisa só: regra de negócio no lugar certo, schema versionado por migration, deploy previsível e custo sob controle.
+Sou consultor e engenheiro fullstack, e fundador do **[Singularity](https://buildwithsingularity.com)** — um product studio focado em transformar produto em faturamento.
 
-Nos últimos anos venho combinando **arquitetura de software** com **engenharia assistida por IA**: coloco modelos Claude em produção e construo agentes e workflows no Claude Code com os padrões de engenharia da empresa embutidos — automação de review, scaffolding e tarefas repetitivas caíram ~60%, sobrando tempo para o que importa: system design.
+Seis casas, quatro domínios bem diferentes. Comecei em e-commerce — varejo online de casa e construção, catálogo enorme e pico de tráfego concentrado em data comemorativa. De lá fui pra infraestrutura de pagamentos: emissão de cartão e banking as a service, o tipo de sistema que outros produtos usam de alicerce. Duas escolas opostas — uma te ensina o que volume faz com código escrito com pressa, a outra te ensina que errar custa o dinheiro de alguém.
+
+Depois vieram viagens, numa plataforma de venda de passagem em escala, e logística de last-mile, ligando loja física a marketplace pra entrega rápida. Operação de verdade: quando o sistema cai, alguém sente na mesma hora. Em seguida, core banking open source — a primeira vez que o código que eu escrevia era lido por gente de fora da empresa, e isso muda o padrão de cuidado.
+
+O Singularity é a soma de tudo isso: em algum ponto do caminho ficou claro pra mim que **o gargalo quase nunca é técnico**.
+
+Em paralelo, venho combinando **arquitetura de software** com **engenharia assistida por IA**: coloco modelos Claude em produção e construo agentes e workflows no Claude Code com os padrões de engenharia do time embutidos — automação de review, scaffolding e tarefas repetitivas caíram ~60%, sobrando tempo para o que importa: system design.
 
 ```text
 o que eu faço bem
@@ -33,7 +40,7 @@ o que eu faço bem
 
 ## ARQUITETURA
 
-A arquitetura que opero hoje, de ponta a ponta:
+Uma arquitetura que desenhei e opero de ponta a ponta:
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"background":"#0B0E0C","mainBkg":"#101511","primaryColor":"#101511","primaryTextColor":"#F4F6F2","primaryBorderColor":"#333A34","secondaryColor":"#101511","tertiaryColor":"#0B0E0C","lineColor":"#00E676","textColor":"#C7CCC8","nodeTextColor":"#F4F6F2","clusterBkg":"#0B0E0C","clusterBorder":"#1D221E","edgeLabelBackground":"#101511","fontFamily":"Space Grotesk, -apple-system, Segoe UI, sans-serif"}}}%%
@@ -152,20 +159,22 @@ flowchart TB
 ## TRAJETÓRIA
 
 ```text
-2025 — hoje   GoNext          Tech Leader — produto SaaS multi-tenant B2B2C
-                              (NestJS · React · AWS · Claude Code)
-
-2024 — 2025   Lerian          Software Engineer — Core Ledger, observabilidade,
-                              micro frontends (Next.js · Module Federation)
-
-2021 — 2024   Dock            Software Engineer — fintech em escala, pipelines
-                              assíncronos, performance, IaC (React · Node BFF · GraphQL)
-
-2019 — 2021   MadeiraMadeira  Front-end Engineer — e-commerce, JAMstack,
-                              Design System, Algolia, Segment
-
-2016 — 2019   JVM             Full Stack — do requisito ao app
-                              (React · React Native · PHP)
+por onde passei
+├── e-commerce           varejo online de casa e construção — catálogo enorme,
+│                        pico de tráfego concentrado em data comemorativa
+│
+├── pagamentos           emissão de cartão e banking as a service — o tipo de
+│                        sistema que outros produtos usam de alicerce
+│
+├── viagens              venda de passagem em escala
+│
+├── logística last-mile  loja física ligada a marketplace pra entrega rápida —
+│                        quando o sistema cai, alguém sente na mesma hora
+│
+├── core banking OSS     código lido por gente de fora da empresa,
+│                        e isso muda o padrão de cuidado
+│
+└── hoje                 consultoria + Singularity, product studio
 ```
 
 **Análise de Sistemas** — IFRN &nbsp;·&nbsp; **Inglês** — leitura, escrita e fala
