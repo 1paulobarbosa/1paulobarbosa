@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-singularity.svg",
+  "backgroundColor": "#0B0E0C",
+  "foregroundColor": "#F4F6F2",
+  "strongColor": "#00E676",
+  "weakColor": "#8A938C",
+  "radarColor": "#00E676",
+  "growingAnimation": true,
+  "contribColors": ["#101511", "#14372A", "#0E7A4A", "#00C264", "#00E676"]
+}

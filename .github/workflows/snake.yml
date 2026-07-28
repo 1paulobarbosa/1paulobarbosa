@@ -20,9 +20,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # paleta buildwithsingularity.com
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#7DFFB8&color_dots=#101511,#14372A,#0E7A4A,#00C264,#00E676&color_background=#0B0E0C
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#7DFFB8&color_dots=#101511,#14372A,#0E7A4A,#00C264,#00E676&color_background=#0B0E0C
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

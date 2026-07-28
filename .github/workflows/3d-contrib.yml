@@ -23,6 +23,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          # paleta buildwithsingularity.com
+          SETTING_JSON: .github/3d-contrib-settings.json
 
       - name: Commit & push SVGs
         run: |
